@@ -1,0 +1,1 @@
+Example: x=0.5 -> boundary-zone
